@@ -6,13 +6,13 @@ Any non-alphanumeric character can be used for overline/underline or just underl
 
 Automatic Table of Contents:
 
-.. image:: ./frontend/cat.png
-    :align: center
-
 .. contents::
     :local:
-    :depth: 1
+    :depth: 
+.. image:: ./frontend/cat.png
+    :align: center
     :backlinks: none
+
 
 ========
 Synopsis
@@ -25,7 +25,7 @@ Installation and Usage
 
 Smaller font subtitle
 ---------------------
-To install `this program`, run the following command:: 
+To install ``this program``, run the following command:: 
 
  command_preceded_by_spacing
 
