@@ -8,11 +8,12 @@ Automatic Table of Contents:
 
 .. contents::
     :local:
-    :depth: 
-.. image:: ./frontend/cat.png
-    :align: center
+    :depth: 1
     :backlinks: none
 
+.. image:: ./frontend/cat.png
+    :align: center
+    :width: 200pt
 
 ========
 Synopsis
